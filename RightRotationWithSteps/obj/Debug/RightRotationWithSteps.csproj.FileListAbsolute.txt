@@ -1,0 +1,7 @@
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\bin\Debug\RightRotationWithSteps.exe.config
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\bin\Debug\RightRotationWithSteps.exe
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\bin\Debug\RightRotationWithSteps.pdb
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\obj\Debug\RightRotationWithSteps.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\obj\Debug\RightRotationWithSteps.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\obj\Debug\RightRotationWithSteps.exe
+C:\Users\ahmed\Desktop\Data structure\RightRotationWithSteps\RightRotationWithSteps\obj\Debug\RightRotationWithSteps.pdb
